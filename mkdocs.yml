@@ -48,7 +48,9 @@ nav:
     - Инструкция к телеграм: instructions/mriya-instruction.md
   - Что делать нельзя:
     - problems/index.md
-    - Если кто-то пишет: problems/problems.md
+    - Если кто-то пишет странное: problems/problems.md
+  - Приложение Нотсапп:
+    - Инструкция к Нотсапп: notsapp/notapp.md
     
 markdown_extensions:
 - admonition #Поддержка варнингов
