@@ -43,12 +43,12 @@ theme: # Тема сайта, информация о ее параметрах
 
 nav:
   - Главная страница: index.md
-  - Инструкции:
+  - Что можно делать:
     - instructions/index.md 
     - Инструкция к телеграм: instructions/mriya-instruction.md
-    - Проблемы:
-      - instructions/problems/index.md
-      - Проблема общая: instructions/problems/problems.md
+  - Что делать нельзя:
+    - problems/index.md
+    - Если кто-то пишет: problems/problems.md
     
 markdown_extensions:
 - admonition #Поддержка варнингов
