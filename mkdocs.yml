@@ -55,3 +55,11 @@ markdown_extensions:
 - pymdownx.details # Спойлеры
 - pymdownx.tabbed: # Вкладки
     alternate_style: true
+
+plugins:
+  - search
+  - glightbox
+  - tags:
+     tags_allowed:
+     - problems
+     - help

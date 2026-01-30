@@ -4,4 +4,6 @@
 
 Тут будут собраны инструкции от чего попало.
 
+<!-- material/tags { include: [help, problems] } -->
+
 
