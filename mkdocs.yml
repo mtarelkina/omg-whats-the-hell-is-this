@@ -50,11 +50,13 @@ nav:
     - problems/index.md
     - Если кто-то пишет странное: problems/problems.md
   - Приложение Нотсапп:
-    - Инструкция к Нотсапп: notsapp/notapp.md
+    - Удаление заметки в Нотсапп: notsapp/notapp.md
+    - Спецификация API: notsapp/api-swagger.md
     
 markdown_extensions:
 - admonition #Поддержка варнингов
 - pymdownx.details # Спойлеры
+- pymdownx.superfences
 - pymdownx.tabbed: # Вкладки
     alternate_style: true
 
@@ -65,3 +67,8 @@ plugins:
      tags_allowed:
      - problems
      - help
+     - notsapp
+     - api
+  - swagger-ui-tag
+  - plantuml:
+      puml_url: https://www.plantuml.com/plantuml/

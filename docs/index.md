@@ -4,6 +4,6 @@
 
 Тут будут собраны инструкции от чего попало. Как послать родственникам красивую картинку или куда послать мошенника в мессенджере.
 
-<!-- material/tags { include: [help, problems] } -->
+<!-- material/tags { include: [help, problems, notsapp, api] } -->
 
 
