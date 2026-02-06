@@ -12,7 +12,7 @@
 
 /*Параметры текста статей*/
 .md-typeset {
-    font-family: 'calibri';
+    font-family: 'calibri, arial';
     font-weight: 400;
     font-size: 18px;
     color: #2c4002;
