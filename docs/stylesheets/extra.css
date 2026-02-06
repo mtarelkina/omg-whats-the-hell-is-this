@@ -1,0 +1,34 @@
+[data-md-color-scheme="contour"] {
+     --md-primary-fg-color: #087259; /*Основной цвет*/
+     --md-accent-fg-color: #586f0a; /*Акцентный цвет*/
+     --md-typeset-a-color: #087f4e; /*Цвет ссылок*/
+     --md-default-bg-color: #b9e1d5; /*Фоновый цвет*/
+     --md-default-fg-color: #353535; /*Основной цвет текста (абзацы, списки, подзаголовки, nav и toc)*/
+     --md-code-bg-color: #ffffff; /*Цвет фона блока кода*/
+     --md-code-fg-color: #5c5b5b; /*Цвет текста в блоке кода*/
+     --md-default-fg-color--light: #4e4d4d; /*Цвет h1 и заголовков блоков toc и nav*/
+}
+
+
+/*Параметры текста статей*/
+.md-typeset {
+    font-family: 'calibri';
+    font-weight: 400;
+    font-size: 18px;
+    color: #2c4002;
+}
+/*Параметры текста nav и toc*/
+.md-nav {
+    font-family: 'calibri';
+    font-weight: 400;
+    font-size: 16px;
+    color: #337303;
+}
+
+/*Параметры заголовков H1*/
+.md-content h1 {
+font-size: 25px;
+font-weight: 600;
+
+}
+

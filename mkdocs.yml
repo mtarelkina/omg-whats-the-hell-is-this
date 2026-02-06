@@ -9,12 +9,11 @@ theme: # Тема сайта, информация о ее параметрах
   language: ru # Язык
   palette: # Настройки светлой и тёмной тем
     # Настройки светлой темы
-    - scheme: default 
+    - scheme: contour 
       toggle:
         icon: material/weather-sunny # Иконка для активации светлой темы
         name: Тьма # Всплывающий текст-подсказка
-      primary: lignt blue # Основной цвет
-      accent: purple # Акцентный цвет
+      
       # вы можете использовать любой цвет из списка: 
       # red; pink; purple; deep purple; indigo; blue; light blue; cyan; teal; 
       # green; light green; lime; yellow; amber; orange; deep orange; brown; 
@@ -72,3 +71,6 @@ plugins:
   - swagger-ui-tag
   - plantuml:
       puml_url: https://www.plantuml.com/plantuml/
+
+extra_css:
+  - stylesheets/extra.css
