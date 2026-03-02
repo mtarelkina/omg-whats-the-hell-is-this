@@ -9,7 +9,7 @@ theme: # Тема сайта, информация о ее параметрах
   language: ru # Язык
   palette: # Настройки светлой и тёмной тем
     # Настройки светлой темы
-    - scheme: contour 
+    - scheme: default 
       toggle:
         icon: material/weather-sunny # Иконка для активации светлой темы
         name: Тьма # Всплывающий текст-подсказка
